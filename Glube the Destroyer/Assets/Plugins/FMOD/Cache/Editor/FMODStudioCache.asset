@@ -1,0 +1,723 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8162483854223617137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Glube/Melt
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Glube/Melt
+  Guid:
+    Data1: -1978074342
+    Data2: 1150281730
+    Data3: -402620277
+    Data4: -420720228
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-8051629026090989753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Glube/Combo/1
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Glube/Combo/1
+  Guid:
+    Data1: 532681385
+    Data2: 1255275029
+    Data3: -1595501125
+    Data4: 1976706510
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-7854018550263639439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/MUSIC/Main Theme Loop
+  m_EditorClassIdentifier: 
+  Path: event:/MUSIC/Main Theme Loop
+  Guid:
+    Data1: 2061387146
+    Data2: 1227691173
+    Data3: 343104688
+    Data4: 1748935755
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 52097
+--- !u!114 &-7806558527943668014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Glube/Jump
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Glube/Jump
+  Guid:
+    Data1: 357029564
+    Data2: 1157356750
+    Data3: -497344622
+    Data4: -1021553612
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-7651253121476826002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/MUSIC/Main Menu Loop
+  m_EditorClassIdentifier: 
+  Path: event:/MUSIC/Main Menu Loop
+  Guid:
+    Data1: 1998711062
+    Data2: 1129826254
+    Data3: -371260534
+    Data4: 1049599296
+  Banks:
+  - {fileID: -5632999262547622278}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 39008
+--- !u!114 &-7407700253390555155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/MUSIC/Player Down
+  m_EditorClassIdentifier: 
+  Path: event:/MUSIC/Player Down
+  Guid:
+    Data1: 1782933121
+    Data2: 1321073886
+    Data3: 877894801
+    Data4: -234681169
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-6943033474008513606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Test SFX
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Test SFX
+  Guid:
+    Data1: 739661788
+    Data2: 1192484910
+    Data3: -10860901
+    Data4: 835359730
+  Banks:
+  - {fileID: 6458127714841535602}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-5820221894579042450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Rumble_Loop
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Rumble_Loop
+  Guid:
+    Data1: 1493530881
+    Data2: 1120669107
+    Data3: 436138902
+    Data4: -1685654417
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-5632999262547622278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Menu.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GlubeTheDestroyer_FMOD/Build/Desktop/Menu.bank
+  Name: Menu
+  StudioPath: bank:/Menu
+  lastModified: 638171867501977970
+  FileSizes:
+  - Name: Desktop
+    Value: 1900384
+  Exists: 1
+--- !u!114 &-5184228668422937974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Glube/Fire
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Glube/Fire
+  Guid:
+    Data1: -1571482320
+    Data2: 1184417421
+    Data3: 44321168
+    Data4: -196688056
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-4483172780186447264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Glube/Combo/3
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Glube/Combo/3
+  Guid:
+    Data1: 2002513786
+    Data2: 1310772017
+    Data3: 1928434590
+    Data4: -419677042
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3962470505092573222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GlubeTheDestroyer_FMOD/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638171867501907864
+  FileSizes:
+  - Name: Desktop
+    Value: 1944
+  Exists: 1
+--- !u!114 &-2511369932177996010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Glube/Combo/2
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Glube/Combo/2
+  Guid:
+    Data1: -1121899215
+    Data2: 1319188203
+    Data3: -1871860069
+    Data4: -880154960
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-2186063850992381964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Glube/Crash
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Glube/Crash
+  Guid:
+    Data1: -1557425232
+    Data2: 1291847957
+    Data3: 277426865
+    Data4: -851682285
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-469853412895091199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Glube/Walk_Loop
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Glube/Walk_Loop
+  Guid:
+    Data1: 1789529977
+    Data2: 1338336348
+    Data3: -1995261303
+    Data4: -86360496
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -3962470505092573222}
+  - {fileID: 6458127714841535602}
+  - {fileID: 3143290356228335726}
+  - {fileID: -5632999262547622278}
+  EditorEvents:
+  - {fileID: -6943033474008513606}
+  - {fileID: -7407700253390555155}
+  - {fileID: -7854018550263639439}
+  - {fileID: 7565825135954970139}
+  - {fileID: -5820221894579042450}
+  - {fileID: 5938209998214784}
+  - {fileID: -8162483854223617137}
+  - {fileID: -5184228668422937974}
+  - {fileID: -2511369932177996010}
+  - {fileID: -469853412895091199}
+  - {fileID: -4483172780186447264}
+  - {fileID: 2282374513902301399}
+  - {fileID: 2323202682252065390}
+  - {fileID: -8051629026090989753}
+  - {fileID: 6101938942886658313}
+  - {fileID: 3055762075880973225}
+  - {fileID: -2186063850992381964}
+  - {fileID: -7806558527943668014}
+  - {fileID: 327688717772550192}
+  - {fileID: -7651253121476826002}
+  - {fileID: 3639073527657867855}
+  - {fileID: 3229424400080940461}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 6458127714841535602}
+  StringsBanks:
+  - {fileID: -3962470505092573222}
+  cacheTime: 638171867501977970
+  cacheVersion: 131603
+--- !u!114 &5938209998214784
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Enviornment/Building Explosion
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Enviornment/Building Explosion
+  Guid:
+    Data1: 1603885839
+    Data2: 1115397180
+    Data3: -1925681006
+    Data4: -1153069291
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &327688717772550192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Glube/Idle
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Glube/Idle
+  Guid:
+    Data1: 1505308644
+    Data2: 1259393781
+    Data3: -1125055558
+    Data4: -1365305489
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &2282374513902301399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Crash
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Crash
+  Guid:
+    Data1: 2056630147
+    Data2: 1114985727
+    Data3: -686041196
+    Data4: 708803072
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &2323202682252065390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Boost
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Boost
+  Guid:
+    Data1: 2061704850
+    Data2: 1282380143
+    Data3: 383336335
+    Data4: -412792395
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3055762075880973225
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Glube/Hurt
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Glube/Hurt
+  Guid:
+    Data1: 1471575212
+    Data2: 1112116070
+    Data3: 45383055
+    Data4: 85487801
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3143290356228335726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Gameplay.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GlubeTheDestroyer_FMOD/Build/Desktop/Gameplay.bank
+  Name: Gameplay
+  StudioPath: bank:/Gameplay
+  lastModified: 638171867501887969
+  FileSizes:
+  - Name: Desktop
+    Value: 2255264
+  Exists: 1
+--- !u!114 &3229424400080940461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/MUSIC/Text Scroll Loop
+  m_EditorClassIdentifier: 
+  Path: event:/MUSIC/Text Scroll Loop
+  Guid:
+    Data1: -1718328590
+    Data2: 1271660602
+    Data3: -865949305
+    Data4: -232045513
+  Banks:
+  - {fileID: -5632999262547622278}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 27769
+--- !u!114 &3639073527657867855
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/MUSIC/Game Over
+  m_EditorClassIdentifier: 
+  Path: event:/MUSIC/Game Over
+  Guid:
+    Data1: 1099074212
+    Data2: 1183708848
+    Data3: 303313793
+    Data4: -866091947
+  Banks:
+  - {fileID: -5632999262547622278}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6101938942886658313
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Glube/Celebrate
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Glube/Celebrate
+  Guid:
+    Data1: 1791307947
+    Data2: 1094401583
+    Data3: 1753380515
+    Data4: 187763959
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6458127714841535602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GlubeTheDestroyer_FMOD/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638171867501907864
+  FileSizes:
+  - Name: Desktop
+    Value: 18176
+  Exists: 1
+--- !u!114 &7565825135954970139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/MUSIC/Glube Defeat Loop
+  m_EditorClassIdentifier: 
+  Path: event:/MUSIC/Glube Defeat Loop
+  Guid:
+    Data1: 971605748
+    Data2: 1268134335
+    Data3: 103958438
+    Data4: 729319303
+  Banks:
+  - {fileID: 3143290356228335726}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 46519
